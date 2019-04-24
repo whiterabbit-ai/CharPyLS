@@ -1,3 +1,2 @@
 numpy
 pillow
-Cython  # Needed for installation only
